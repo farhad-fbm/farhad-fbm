@@ -1,7 +1,7 @@
 # Hey, I'm Farhad! 👋
 
 
-<pre style="width: 400em;">
+<pre>
 <strong>Frontend:</strong> React Native    | Next.js
 <strong>Backend:</strong>  FastAPI.py      | Node.js
 <strong>Database:</strong> PostgreSQL      | MongoDB
