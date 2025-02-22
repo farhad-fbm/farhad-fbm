@@ -1,10 +1,12 @@
 # Hey, I'm Farhad! 👋
 
-🚀 **Frontend**: -React Native --| Next.js <br>
-💻 **Backend**: --FastAPI.py ----| Node.js <br>
-🗄 **Database**: --PostgreSQL ----| MongoDB <br>
-🛠 **Form**: -----React Hook Form | Zod <br>
-📦 **State**: ----React Query ---| Redux <br>
+<pre>
+🚀 **Frontend**: -React Native --| Next.js
+💻 **Backend**: --FastAPI.py ----| Node.js
+🗄 **Database**: --PostgreSQL ----| MongoDB
+🛠 **Form**: -----React Hook Form | Zod
+📦 **State**: ----React Query ---| Redux
+</pre>
 
 ---
 
