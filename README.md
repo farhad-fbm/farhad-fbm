@@ -1,11 +1,11 @@
 # Hey, I'm Farhad! 👋
 
 
-**Frontend**: <pre>React Native    | Next.js</pre>
-**Backend**: -<pre>FastAPI.py      | Node.js</pre>
-**Database**: <pre>PostgreSQL      | MongoDB</pre>
-**Form**: ----<pre>React Hook Form | Zod </pre>
-**State**: ---<pre>React Query     | Redux</pre>
+**Frontend**: React Native    | Next.js <br>
+**Backend**: -FastAPI.py      | Node.js <br>
+**Database**: PostgreSQL      | MongoDB <br>
+**Form**: ----React Hook Form | Zod <br>
+**State**: ---React Query     | Redux <br>
 
 
 ---
@@ -34,7 +34,7 @@
   <li>
       <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
       <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-      <img src="https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=fastify&logoColor=white" />
+<!--       <img src="https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=fastify&logoColor=white" /> -->
   </li>
 </ul>
 
