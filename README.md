@@ -1,6 +1,7 @@
 # Hey, I'm Farhad! 👋
 
-
+<div style="width: 20em;">
+  
 <pre>
 <strong>Frontend:</strong> React Native    | Next.js
 <strong>Backend:</strong>  FastAPI.py      | Node.js
@@ -9,6 +10,7 @@
 <strong>State:</strong>    React Query     | Redux
 </pre>
 
+</div>
 
 
 
