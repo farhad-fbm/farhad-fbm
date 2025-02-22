@@ -1,4 +1,4 @@
-# Hi there, I'm Farhad! 👋
+# Hey, I'm Farhad!
 
 🚀 **Frontend**: React Native    | React (Next.js)  
 💻 **Backend**:  FastAPI         | Node.js (Axios)  
