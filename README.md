@@ -1,13 +1,13 @@
 # Hey, I'm Farhad! 👋
 
 
-<div style="width: 40em; font-family: monospace; white-space: pre; display: block;">
+<pre style="width: 400em;">
 <strong>Frontend:</strong> React Native    | Next.js
 <strong>Backend:</strong>  FastAPI.py      | Node.js
 <strong>Database:</strong> PostgreSQL      | MongoDB
 <strong>Form:</strong>     React Hook Form | Zod
 <strong>State:</strong>    React Query     | Redux
-</div>
+</pre>
 
 
 
