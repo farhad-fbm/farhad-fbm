@@ -1,7 +1,5 @@
 # Hey, I'm Farhad! 👋
 
-<div style="width: 20em;">
-  
 <pre>
 <strong>Frontend:</strong> React Native    | Next.js
 <strong>Backend:</strong>  FastAPI.py      | Node.js
@@ -9,10 +7,6 @@
 <strong>Form:</strong>     React Hook Form | Zod
 <strong>State:</strong>    React Query     | Redux
 </pre>
-
-</div>
-
-
 
 ---
 
@@ -22,7 +16,6 @@
   <div><img width="400em" src="https://github-readme-streak-stats.herokuapp.com/?user=farhad-fbm&theme=dark" /></div>
   <div><img width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=farhad-fbm&layout=compact&theme=radical" /></div>
 </div>
-
 
 ---
 
