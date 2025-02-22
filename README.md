@@ -1,26 +1,25 @@
 # Hi there, I'm Farhad! 👋
 
-![Your Banner](https://your-image-url.com/banner.gif)
+🚀 **Frontend**: React (Next.js), React Native (Expo)  
+🛠 **State & Form Management**: RHF with Zod, React Query, Axios  
+💻 **Backend**: Node.js, Fastify (JS), MongoDB  
+🐍 **Backend (Python)**: FastAPI, PostgreSQL  
 
-🔭 I’m currently working on: **React Native & FastAPI Projects**  
-🌱 Learning: **Cybersecurity & Competitive Programming**  
-📫 Reach me: [LinkedIn](https://linkedin.com/in/yourname) | [Twitter](https://twitter.com/yourname)  
-🎯 2025 Goal: **Become a Candidate Master in CP & Start Freelancing**  
-
-## 🏆 GitHub Stats:
+## 📊 GitHub Stats:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact)
 
 ## 🚀 Tech Stack:
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Fastify](https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=fastify&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ## 📌 Pinned Projects:
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=your-repo)](https://github.com/your-username/your-repo)
-
-![Snake animation](https://github.com/your-username/your-username/blob/output/github-contribution-grid-snake.svg)
 
 👀 **Visitors Count:**  
 ![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=your-username)
