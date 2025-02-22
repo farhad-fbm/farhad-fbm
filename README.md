@@ -3,7 +3,6 @@
 🚀 **Frontend**: React-Native, React (Next)
 💻 **Backend**: FastAPI, Node.js, Axios
 🗄 **Database**: PostgreSQL, MongoDB  
-
 🛠 **Form**: React-Hook-Form, Zod 
 📦 **State**: React-Query & Redux  
 
