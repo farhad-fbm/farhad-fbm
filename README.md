@@ -1,7 +1,7 @@
 # Hey, I'm Farhad! 👋
 
 
-<div style="width: 400em; font-family: monospace; white-space: pre;">
+<div style="width: 40em; font-family: monospace; white-space: pre; display: block;">
 <strong>Frontend:</strong> React Native    | Next.js
 <strong>Backend:</strong>  FastAPI.py      | Node.js
 <strong>Database:</strong> PostgreSQL      | MongoDB
