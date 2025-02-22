@@ -1,11 +1,11 @@
 # Hi there, I'm Farhad! 👋
 
-🚀 **Frontend**: React (Next), React Native (Expo)  
-🛠 **Form**: React Hook Form, Zod  
-📦 **State**: React Query, Axios, Redux  
-🔐 **Auth**: Firebase  
-💻 **Backend**: FastAPI, Node.js (Fastify)  
+🚀 **Frontend**: React-Native, React (Next)
+💻 **Backend**: FastAPI, Node.js, Axios
 🗄 **Database**: PostgreSQL, MongoDB  
+
+🛠 **Form**: React-Hook-Form, Zod 
+📦 **State**: React-Query & Redux  
 
 ## 📊 GitHub Stats:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=farhad-fbm&show_icons=true&theme=radical)
