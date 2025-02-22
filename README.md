@@ -1,10 +1,10 @@
 # Hey, I'm Farhad! 👋
 
-🚀 **Frontend**: React Native | React (Next.js)  
-💻 **Backend**: FastAPI | Node.js (Axios)  
-🗄 **Database**: PostgreSQL | MongoDB  
-🛠 **Form Validation**: React Hook Form | Zod  
-📦 **State Management**: React Query | Redux  
+🚀 **Frontend**: -React Native --| Next.js 
+💻 **Backend**: --FastAPI.py ----| Node.js
+🗄 **Database**: --PostgreSQL ----| MongoDB  
+🛠 **Form**: -----React Hook Form | Zod  
+📦 **State**: ----React Query ---| Redux  
 
 ---
 
@@ -21,7 +21,7 @@
 ### **Frontend:**
 <ul type="none">
   <li>
-      <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<!--       <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> -->
       <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
       <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
   </li>
