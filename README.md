@@ -15,10 +15,11 @@
 
 ## 📊 GitHub Stats  
 <div align="left">
-  <div><img height="180em" src="https://github-readme-stats.vercel.app/api?username=farhad-fbm&show_icons=true&theme=radical" /></div>
-  <div><img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=farhad-fbm&theme=dark" /></div>
-  <div><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=farhad-fbm&layout=compact&theme=radical" /></div>
+  <div><img width="400em" src="https://github-readme-stats.vercel.app/api?username=farhad-fbm&show_icons=true&theme=radical" /></div>
+  <div><img width="400em" src="https://github-readme-streak-stats.herokuapp.com/?user=farhad-fbm&theme=dark" /></div>
+  <div><img width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=farhad-fbm&layout=compact&theme=radical" /></div>
 </div>
+
 
 ---
 
