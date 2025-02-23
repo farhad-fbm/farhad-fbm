@@ -32,8 +32,8 @@
 ### **Backend:**
 <ul type="none">
   <li>
-      <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-      <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+      <p><img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" /></p>
+      <p><img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" /></p>
 <!--       <img src="https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=fastify&logoColor=white" /> -->
   </li>
 </ul>
@@ -41,8 +41,8 @@
 ### **Database:**
 <ul type="none">
   <li>
-      <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-      <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+      <p><img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" /></p>
+     <p><img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" /></p>
   </li>
 </ul>
 
@@ -58,8 +58,8 @@
 ### **Form Validation:**
 <ul type="none">
   <li>
-      <img src="https://img.shields.io/badge/React_Hook_Form-EC5990?style=for-the-badge&logo=reacthookform&logoColor=white" />
-      <img src="https://img.shields.io/badge/Zod-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+      <p><img src="https://img.shields.io/badge/React_Hook_Form-EC5990?style=for-the-badge&logo=reacthookform&logoColor=white" /></p>
+      <p><img src="https://img.shields.io/badge/Zod-3178C6?style=for-the-badge&logo=typescript&logoColor=white" /></p>
   </li>
 </ul>
 
