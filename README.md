@@ -6,6 +6,8 @@
 <strong>Database:</strong> PostgreSQL      | MongoDB
 <strong>Form:</strong>     React Hook Form + Zod
 <strong>State:</strong>    React Query     + Redux
+  
+<strong>Others</strong>    Redis
 </pre>
 
 ---
