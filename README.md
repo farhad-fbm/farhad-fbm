@@ -76,7 +76,7 @@
 ---
 
 ## 📌 Pinned Projects  
-[![ReadMe Card](https://github.com/farhad-fbm/farhad-fbm)  
+(https://github.com/farhad-fbm/farhad-fbm)  
 
 ---
 
