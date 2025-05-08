@@ -76,7 +76,7 @@
 ---
 
 ## 📌 Pinned Projects  
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=farhad-fbm&repo=your-repo)](https://github.com/farhad-fbm/farhad-fbm)  
+[![ReadMe Card](https://github.com/farhad-fbm/farhad-fbm)  
 
 ---
 
