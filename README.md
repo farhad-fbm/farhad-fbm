@@ -1,9 +1,10 @@
 # Hey, I'm Farhad! 👋
 
 <pre>
-<strong>Frontend:</strong> React Native    | Next.js
+<strong>Frontend:</strong> Flutter         | Dart
 <strong>Backend:</strong>  FastAPI.py      | Node.js
 <strong>Database:</strong> PostgreSQL      | MongoDB
+<strong>Database:</strong> GraphQL         | RestAPI
 <strong>Form:</strong>     React Hook Form + Zod
 <strong>State:</strong>    React Query     + Redux
   
@@ -19,11 +20,3 @@
 </div>
 
 ---
-
-## 📌 Pinned Projects  
-(https://github.com/farhad-fbm/farhad-fbm)  
-
----
-
-### 👀 Visitor Count  
-![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=farhad-fbm)
