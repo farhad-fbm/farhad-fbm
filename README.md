@@ -1,14 +1,14 @@
 # Hey, I'm Farhad! 👋
 
 <pre>
-<strong>Frontend:</strong> Flutter         | Dart
+<strong>Frontend:</strong> Flutter         | React
 <strong>Backend:</strong>  FastAPI.py      | Node.js
 <strong>Database:</strong> PostgreSQL      | SQLite
 <strong>Database:</strong> GraphQL         | RestAPI
 <strong>Form:</strong>     React Hook Form + Zod
 <strong>State:</strong>    React Query     + Redux
   
-<strong>Others</strong>    Redis
+
 </pre>
 
 ---
