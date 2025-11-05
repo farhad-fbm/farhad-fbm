@@ -4,7 +4,8 @@
 <strong>Frontend:</strong> Flutter         | React
 <strong>Backend:</strong>  FastAPI.py      | Node.js
 <strong>Database:</strong> PostgreSQL      | SQLite
-<strong>Database:</strong> GraphQL         | RestAPI
+<strong>APIs:</strong>     GraphQL         | RestAPI
+  
   
 
 </pre>
