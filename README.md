@@ -2,7 +2,7 @@
 
 <pre>
 <strong>Frontend:</strong> Flutter         | React
-<strong>Backend:</strong>  FastAPI.py      | Node.js
+<strong>Backend:</strong>  FastAPI.py      | Go
 <strong>Database:</strong> PostgreSQL      | SQLite
 <strong>APIs:</strong>     GraphQL         | RestAPI
   
