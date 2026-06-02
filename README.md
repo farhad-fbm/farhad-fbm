@@ -1,8 +1,8 @@
 # Hey, I'm Farhad! 👋
 
 <pre>
-<strong>Frontend:</strong> Flutter         | React
-<strong>Backend:</strong>  FastAPI.py      | Go
+<strong>Frontend:</strong> React-Native    | Flutter
+<strong>Backend:</strong>  Node (NEXT)     | python
 <strong>Database:</strong> PostgreSQL      | SQLite
 <strong>APIs:</strong>     GraphQL         | RestAPI
   
